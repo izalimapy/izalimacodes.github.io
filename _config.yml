@@ -14,11 +14,11 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: izalimacodes # the main title
+title: Meus Artigos # the main title
 
 tagline: Seu lugar de conteúdos voltados à tecnologia, ciência de dados e IA, facilitando a jornada de quem deseja ingressar ou se aprofundar nesse vasto campo. # it will display as the subtitle
 
-description: >- # used by seo meta and the atom feed
+description: Conteúdos de tecnologia, criptografia, inteligência artificial e ciência forense em um só lugar! >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
