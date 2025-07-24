@@ -6,21 +6,21 @@ order: 3
 layout: archives
 title: IA
 icon: fas fa-archive
-order: 4
+order: 3
 
 layout: archives
 title: Criptografia
 icon: fas fa-archive
-order: 5
+order: 3
 
 layout: archives
 title: Astronomia
 icon: fas fa-archive
-order: 6
+order: 3
 
 layout: archives
 title: Ciência Forense
 icon: fas fa-archive
-order: 7
+order: 3
 
 ---
