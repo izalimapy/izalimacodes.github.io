@@ -1,8 +1,12 @@
 #  The contact options.
 
-type: linkedin
+- type: linkedin
 icon: 'fab fa-linkedin'
 url:  'https://www.linkedin.com/in/izalimasec/'
+
+- type: threads
+icon: 'fa-brands fa-threads'
+url: 'https://www.threads.com/@izalimacodes' # Fill with your Threads profile link
 
 # Uncomment and complete the url below to enable more contact options
 #
